@@ -42,8 +42,24 @@ Here are some ideas to get you started:
 ![image](https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/5a4e086f-ac6f-4b97-a60b-2b20e7422d7b)
 ![image](https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/5d47aa61-8488-47a1-a064-10f1559587cd)
 ![image](https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/6ebc3f2e-48f0-48ed-b9df-468b3efefc36)
-![image](https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/5bd3df67-78a6-4997-9051-7fbdce4cda99)
-![image](https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/f26f168d-acc7-44e7-9339-6e19113eea34)
-![image](https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/50dc8eef-6e7a-4f07-ba68-f6c99fdde74b)
-![image](https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/d76d0aac-4580-4cb2-9b54-ff4836a1c8ed)
+
+
+## </> Coding Platforms
+[![image](https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/5bd3df67-78a6-4997-9051-7fbdce4cda99)](https://leetcode.com/u/WARLU/)
+<br>
+[![image](https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/f26f168d-acc7-44e7-9339-6e19113eea34)](https://www.codechef.com/users/warlu_naalla)
+<br>
+[![image](https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/50dc8eef-6e7a-4f07-ba68-f6c99fdde74b)](https://codeforces.com/profile/WARLU)
+<br>
+[![image](https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/d76d0aac-4580-4cb2-9b54-ff4836a1c8ed)](https://www.hackerrank.com/profile/WARLU)
+<br>
+[![image](https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/fa2ada40-0cb2-4ddc-8105-6d5cb6365564)](https://www.hackerearth.com/@warlu)
+
+
+## 🎓 Certifications
+[![image](https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/3dd86d4b-8822-458a-8b93-7f1af591a911) Programming in Modern c++](https://drive.google.com/file/d/1FhlmjjaLF4pM_okuOaNU2V5lOOkJ9bYc/view?usp=sharing)
+[![image](https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/3dd86d4b-8822-458a-8b93-7f1af591a911) Programming in Java](https://drive.google.com/file/d/1D4H2ptKjSu5_OwkjUJwQLL_JHksJV-OG/view?usp=sharing)
+[![image](https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/3dd86d4b-8822-458a-8b93-7f1af591a911) Programming in Python](https://drive.google.com/file/d/1z3MgAXz6M4OVn2hqMaLRAB_NDuqKP5_f/view?usp=sharing)
+[![image](https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/3dd86d4b-8822-458a-8b93-7f1af591a911) Design and Analysis of Algorithms](https://drive.google.com/file/d/1W57s4JmVTUMi65tGxgYQpy9bw_6eweNc/view?usp=sharing)
+
 
