@@ -1,4 +1,5 @@
-## Hi  👋 I'm Venkateshwarlu
+# Naalla Venkateshwarlu
+<h1 align="center"> Hi  👋 I'm Venkateshwarlu</h1>
 
 <!--
 **W-A-R-L-U/w-a-r-l-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-**A competitive programmer with strong DSA skills and AIML enthusiast. Top 3% in the contest ranking in platfroms like leetcode and 4 star coder in codechef.**
+<h3 align="center">A competitive programmer with strong DSA skills and AIML enthusiast. Top 3% in the contest ranking in platfroms like leetcode and 4 star coder in codechef.</h3>
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
@@ -58,8 +59,20 @@ Here are some ideas to get you started:
 
 ## 🎓 Certifications
 [![image](https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/3dd86d4b-8822-458a-8b93-7f1af591a911) Programming in Modern c++](https://drive.google.com/file/d/1FhlmjjaLF4pM_okuOaNU2V5lOOkJ9bYc/view?usp=sharing)
+<br>
 [![image](https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/3dd86d4b-8822-458a-8b93-7f1af591a911) Programming in Java](https://drive.google.com/file/d/1D4H2ptKjSu5_OwkjUJwQLL_JHksJV-OG/view?usp=sharing)
+<br>
 [![image](https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/3dd86d4b-8822-458a-8b93-7f1af591a911) Programming in Python](https://drive.google.com/file/d/1z3MgAXz6M4OVn2hqMaLRAB_NDuqKP5_f/view?usp=sharing)
+<br>
 [![image](https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/3dd86d4b-8822-458a-8b93-7f1af591a911) Design and Analysis of Algorithms](https://drive.google.com/file/d/1W57s4JmVTUMi65tGxgYQpy9bw_6eweNc/view?usp=sharing)
+<br>
+[![image](https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/3dd86d4b-8822-458a-8b93-7f1af591a911) Introduction to Machine Learning](https://drive.google.com/file/d/1uD9pmxknY5kiIyRb-BWJkViJJIF2eiBF/view?usp=sharing)
+<br>
+[![image](https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/3dd86d4b-8822-458a-8b93-7f1af591a911) Natural Language Processing](https://drive.google.com/file/d/1K8_mtOgSqJ55OPqIONpAYVfBOGUE_gV9/view?usp=sharing)
+<br>
 
+
+
+## <img src="https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/7e99f07c-b3f0-41aa-b59c-d0c912627511" width="200" height="50">
+![Leetcode](https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/8f2ad170-9196-4b23-abc4-39e860b587cc)
 
