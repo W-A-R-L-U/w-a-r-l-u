@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi  👋 I'm Venkateshwarlu
 
 <!--
 **W-A-R-L-U/w-a-r-l-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A competitive programmer with strong DSA skills and AIML enthusiast. Top 3% in the contest ranking in platfroms like leetcode and 4 star coder in codechef. 
+
+-----------------------------------------------------------------------------------------------------------------------------------
+<br>
+* I'm currently pursuing B.Tech in **Sreenidhi Institute of Science and Technology**
+* A passionate programmer
+* AIML enthusiast
+* Reach me at venkateshwarluchinnunaalla@gmail.com
