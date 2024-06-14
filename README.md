@@ -75,5 +75,11 @@ Here are some ideas to get you started:
 
 ## <img src="https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/7e99f07c-b3f0-41aa-b59c-d0c912627511" width="200" height="50">
 ![Leetcode](https://github.com/W-A-R-L-U/w-a-r-l-u/assets/114277372/8f2ad170-9196-4b23-abc4-39e860b587cc)
-
+<!--
 ![Leetcode Stats](https://leetcard.jacoblin.cool/warlu)
+
+![](https://leetcard.jacoblin.cool/warlu?ext=contest)
+-->
+
+
+<img src="https://leetcard.jacoblin.cool/warlu?ext=contest">
