@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 * I'm currently pursuing B.Tech in **Sreenidhi Institute of Science and Technology**
 * A passionate programmer
 * AIML enthusiast
+* Competitive Programmer
 * Reach me at venkateshwarluchinnunaalla@gmail.com
 
 -----------------------------------------------------------------------------------------------------------------------------------
